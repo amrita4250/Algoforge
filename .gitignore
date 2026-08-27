@@ -11,5 +11,8 @@ target/
 # Secrets — never commit
 src/main/resources/application.properties
 
+# Claude AI assistant files
+.claude/
+
 # Local data
 *.log
