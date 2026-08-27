@@ -1,0 +1,15 @@
+target/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Secrets — never commit
+src/main/resources/application.properties
+
+# Local data
+*.log
